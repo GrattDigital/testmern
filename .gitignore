@@ -1,0 +1,9 @@
+# OS and Editor files
+.vscode
+
+# Folders to ignore
+.sass-cache
+.tmp
+_tmp
+node_modules
+bower_components
